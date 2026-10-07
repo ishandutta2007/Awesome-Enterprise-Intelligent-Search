@@ -70,40 +70,40 @@ The enterprise intelligent search SaaS market estimated size is **~$6.5 Billion*
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Open WebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) 🔒  
-  **Self-hosted ChatGPT-style UI with RAG**, MIT licensed. **124K+ GitHub stars** — **supports Ollama, OpenAI-compatible APIs, MCP servers, and RAG with 9+ vector databases** . **Multi-user RBAC and LDAP/SSO integration** . **The most deployed self-hosted AI search interface** . 🚀
+  **Self-hosted ChatGPT-style UI with RAG**, MIT licensed. **124K+ GitHub_Stars** — **supports Ollama, OpenAI-compatible APIs, MCP servers, and RAG with 9+ vector databases** . **Multi-user RBAC and LDAP/SSO integration** . **The most deployed self-hosted AI search interface** . 🚀
 
 - **[Elasticsearch](https://github.com/elastic/elasticsearch)** [![Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers) 🔍  
-  **Distributed, RESTful search and analytics engine**, Elastic License 2.0 / SSPL. **70K+ GitHub stars** — **the most widely deployed open-source search engine** . **Full-text search, vector search, BM25, and hybrid retrieval** . **Kibana visualization** . **The definitive open-source search foundation** . 🏛️
+  **Distributed, RESTful search and analytics engine**, Elastic License 2.0 / SSPL. **70K+ GitHub_Stars** — **the most widely deployed open-source search engine** . **Full-text search, vector search, BM25, and hybrid retrieval** . **Kibana visualization** . **The definitive open-source search foundation** . 🏛️
 
 - **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) ⚡  
-  **Lightning-fast open-source search engine**, MIT licensed. **50K+ GitHub stars** — **sub-50ms search latency** . **Typo-tolerant, instant search-as-you-type** . **Vector search and AI-powered hybrid retrieval** . **The most developer-friendly open-source search engine** . 🎯
+  **Lightning-fast open-source search engine**, MIT licensed. **50K+ GitHub_Stars** — **sub-50ms search latency** . **Typo-tolerant, instant search-as-you-type** . **Vector search and AI-powered hybrid retrieval** . **The most developer-friendly open-source search engine** . 🎯
 
 - **[Milvus](https://github.com/milvus-io/milvus)** [![Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) 🎯  
-  **Cloud-native open-source vector database**, Apache-2.0 licensed. **35K+ GitHub stars** — **billion-scale vector similarity search** . **Designed for enterprise AI retrieval and RAG pipelines** . **The most scalable open-source vector database** . 🧠
+  **Cloud-native open-source vector database**, Apache-2.0 licensed. **35K+ GitHub_Stars** — **billion-scale vector similarity search** . **Designed for enterprise AI retrieval and RAG pipelines** . **The most scalable open-source vector database** . 🧠
 
 - **[Qdrant](https://github.com/qdrant/qdrant)** [![Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) 🧠  
-  **High-performance open-source vector database**, Apache-2.0 licensed. **25K+ GitHub stars** — **vector similarity search with payload filtering** . **Rust-based engine for semantic search and RAG** . **The most performant open-source vector database** . ⚡
+  **High-performance open-source vector database**, Apache-2.0 licensed. **25K+ GitHub_Stars** — **vector similarity search with payload filtering** . **Rust-based engine for semantic search and RAG** . **The most performant open-source vector database** . ⚡
 
 - **[Typesense](https://github.com/typesense/typesense)** [![Stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers) 🎯  
-  **Open-source, typo-tolerant search engine**, GPL-3.0 licensed. **22K+ GitHub stars** — **instant search with sub-50ms latency** . **C++ performance, vector search, and hybrid retrieval** . **The top open-source alternative to Algolia** . ⚡
+  **Open-source, typo-tolerant search engine**, GPL-3.0 licensed. **22K+ GitHub_Stars** — **instant search with sub-50ms latency** . **C++ performance, vector search, and hybrid retrieval** . **The top open-source alternative to Algolia** . ⚡
 
 - **[Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)** [![Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers) 🏢  
-  **Open-source enterprise search and AI assistant**, MIT licensed. **15K+ GitHub stars** — **40+ connectors** for Slack, Google Drive, Confluence, Jira, Notion, and Web . **Generative RAG answers with verifiable citations** . **Self-hosted for complete enterprise data sovereignty** . 🌐
+  **Open-source enterprise search and AI assistant**, MIT licensed. **15K+ GitHub_Stars** — **40+ connectors** for Slack, Google Drive, Confluence, Jira, Notion, and Web . **Generative RAG answers with verifiable citations** . **Self-hosted for complete enterprise data sovereignty** . 🌐
 
 - **[Weaviate](https://github.com/weaviate/weaviate)** [![Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers) 🧩  
-  **Open-source vector database with GraphQL API**, BSD-3-Clause licensed. **14K+ GitHub stars** — **vector search, hybrid keyword retrieval, and built-in ML modules** . **Flexible schema-driven semantic vector engine** . 🧩
+  **Open-source vector database with GraphQL API**, BSD-3-Clause licensed. **14K+ GitHub_Stars** — **vector search, hybrid keyword retrieval, and built-in ML modules** . **Flexible schema-driven semantic vector engine** . 🧩
 
 - **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers) 🏛️  
-  **Community-driven, Apache 2.0-licensed search suite**, Apache-2.0 licensed. **9K+ GitHub stars** — **AWS-backed open-source fork of Elasticsearch** . **Full-text search, k-NN vector search, and analytical dashboards** . **The most permissively licensed enterprise search engine** . ☁️
+  **Community-driven, Apache 2.0-licensed search suite**, Apache-2.0 licensed. **9K+ GitHub_Stars** — **AWS-backed open-source fork of Elasticsearch** . **Full-text search, k-NN vector search, and analytical dashboards** . **The most permissively licensed enterprise search engine** . ☁️
 
 - **[Vespa](https://github.com/vespa-engine/vespa)** [![Stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers) 🚀  
-  **AI-powered search and recommendation engine**, Apache-2.0 licensed. **6K+ GitHub stars** — **real-time big-data search and neural ranking at scale** . **Vector search and tensor evaluation in production** . **Engineered by Yahoo for massive internet scale** . 🌐
+  **AI-powered search and recommendation engine**, Apache-2.0 licensed. **6K+ GitHub_Stars** — **real-time big-data search and neural ranking at scale** . **Vector search and tensor evaluation in production** . **Engineered by Yahoo for massive internet scale** . 🌐
 
 - **[Apache Solr](https://github.com/apache/solr)** [![Stars](https://img.shields.io/github/stars/apache/solr?style=social&color=white)](https://github.com/apache/solr/stargazers) 🏛️  
-  **Blazing-fast enterprise search platform**, Apache-2.0 licensed. **5K+ GitHub stars** — **the original enterprise search engine built on Apache Lucene** . **Full-text search, faceting, spatial search, and vector retrieval** . **The most battle-tested open-source search engine** . 🏛️
+  **Blazing-fast enterprise search platform**, Apache-2.0 licensed. **5K+ GitHub_Stars** — **the original enterprise search engine built on Apache Lucene** . **Full-text search, faceting, spatial search, and vector retrieval** . **The most battle-tested open-source search engine** . 🏛️
 
 ---
 
